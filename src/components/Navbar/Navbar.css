@@ -1,0 +1,40 @@
+.Nav-container{
+    display: flex;
+    background-color:#f2f2f2;
+    padding: 15px 10%;
+    justify-content: space-between;
+    
+    
+}
+.Logo-container{
+    height:27px;
+    width:fit-content;
+ 
+}
+
+.Search-container {
+    display: flex;
+  }
+  
+.Search-container div {
+    margin-right: 40px;
+  }
+
+.search-input {
+    padding: 4px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    width: 200px;
+}
+
+.search-button {
+    padding: 4px 4px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
